@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Tiny Library Book Store Management System\bin\Debug\Tiny Library Book Store Management System.exe.config
+C:\Users\User\source\repos\Tiny Library Book Store Management System\bin\Debug\Tiny Library Book Store Management System.exe
+C:\Users\User\source\repos\Tiny Library Book Store Management System\bin\Debug\Tiny Library Book Store Management System.pdb
+C:\Users\User\source\repos\Tiny Library Book Store Management System\obj\Debug\Tiny Library Book Store Management System.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Tiny Library Book Store Management System\obj\Debug\Tiny_Library_Book_Store_Management_System.Admin_Login.resources
+C:\Users\User\source\repos\Tiny Library Book Store Management System\obj\Debug\Tiny_Library_Book_Store_Management_System.Users_Form.resources
+C:\Users\User\source\repos\Tiny Library Book Store Management System\obj\Debug\Tiny_Library_Book_Store_Management_System.Properties.Resources.resources
+C:\Users\User\source\repos\Tiny Library Book Store Management System\obj\Debug\Tiny Library Book Store Management System.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Tiny Library Book Store Management System\obj\Debug\Tiny Library Book Store Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tiny Library Book Store Management System\obj\Debug\Tiny Library Book Store Management System.exe
+C:\Users\User\source\repos\Tiny Library Book Store Management System\obj\Debug\Tiny Library Book Store Management System.pdb
+C:\Users\User\source\repos\Tiny Library Book Store Management System\obj\Debug\Tiny_Library_Book_Store_Management_System.Admin_Manager_Create.resources
+C:\Users\User\source\repos\Tiny Library Book Store Management System\obj\Debug\Tiny_Library_Book_Store_Management_System.ManagerNewBookEntry.resources
+C:\Users\User\source\repos\Tiny Library Book Store Management System\obj\Debug\Tiny_Library_Book_Store_Management_System.Manager_Book_Search.resources
+C:\Users\User\source\repos\Tiny Library Book Store Management System\obj\Debug\Tiny_Library_Book_Store_Management_System.Manager_Delete_Book.resources
+C:\Users\User\source\repos\Tiny Library Book Store Management System\obj\Debug\Tiny_Library_Book_Store_Management_System.Manager_Edit_Book_Info.resources
